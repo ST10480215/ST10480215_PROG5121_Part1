@@ -1,2 +1,2 @@
 # ST10480215_PROG5121_Part1
-Part 1 Repository 
+Part 1 PROG5121 Assignment 
