@@ -1,7 +1,7 @@
 # Chat Application Part 1
 * Name: Mnqweno
 * Student Number: ST10480215
-* Module
+* Module PROG5125
 
 ...
 
@@ -14,3 +14,4 @@ njnbfdffgb
 * Username Validation
 * Password Validation
 * Cellphone Validation
+ 
